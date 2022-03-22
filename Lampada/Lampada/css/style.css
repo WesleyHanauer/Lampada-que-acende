@@ -1,0 +1,12 @@
+#lampada{
+    transform: rotate(-180deg);
+    margin-left: 50%;
+    padding-top: 4%;
+}
+
+#interruptor{
+    margin-left: 10%;
+    padding-bottom: 5%;
+    cursor: pointer;
+    cursor: hand;
+}
